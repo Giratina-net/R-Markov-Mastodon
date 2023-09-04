@@ -1,0 +1,5 @@
+###### Requirements with Version Specifiers ######`
+tweepy == 4.10.0
+requests == 2.28.1
+Mastodon.py==1.8.1
+schedule==1.2.0
